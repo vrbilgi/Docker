@@ -6,7 +6,8 @@ import (
         "os"
 )
 const (
-        SERVER_HOST = "localhost"
+        //SERVER_HOST = "localhost"
+        SERVER_HOST = "0.0.0.0"
         SERVER_PORT = "9988"
         SERVER_TYPE = "tcp"
 )
